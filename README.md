@@ -11,3 +11,6 @@ http://donghyun53.net/%EA%B5%AC%EA%B8%80-tpu-%EB%93%A4%EC%97%AC%EB%B3%B4%EA%B8%B
 http://home.mit.bme.hu/~rtamas/DigitalDesign2/Verilog_Intro_part2_print.pdf
 
 dho gksrmf dksTjwlsi mm;;
+
+<Rom data>
+http://web.mit.edu/6.111/www/s2007/LECTURES/ramrom.pdf
